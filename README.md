@@ -3,8 +3,7 @@
 <p>Days of Code using JS</p>
 <p>2 different Hackerrank Tutorials Used<br>
 https://www.hackerrank.com/domains/tutorials/10-days-of-javascript (First 10 days)<br>
-https://www.hackerrank.com/domains/tutorials/30-days-of-code (Day 10-30)</p>
-<a href = "../../trees/main/day0">day 0</a>
+https://www.hackerrank.com/domains/tutorials/30-days-of-code (Day 10-20)</p>
 <h3>List of Questions</h3>
 <ul>
   <li><a href = "https://hackerrank.com/challenges/js10-hello-world/problem">Day 0 - Hello World</a></li>
@@ -44,3 +43,26 @@ https://www.hackerrank.com/domains/tutorials/30-days-of-code (Day 10-30)</p>
   <li><a href = "https://hackerrank.com/challenges/30-queues-stacks/problem">Day 19 - Queues and Stacks</a></li>
   <li><a href = "https://hackerrank.com/challenges/30-sorting/problem">Day 20 - Sorting</a></li>
 </ul>
+<h3>List of Solutions</h3>
+<ul>
+  <li><a href = "../../tree/main/day0">Day 0</a>
+  <li><a href = "../../tree/main/day1">Day 1</a>
+  <li><a href = "../../tree/main/day2">Day 2</a>
+  <li><a href = "../../tree/main/day3">Day 3</a>
+  <li><a href = "../../tree/main/day4">Day 4</a>
+  <li><a href = "../../tree/main/day5">Day 5</a>
+  <li><a href = "../../tree/main/day6">Day 6</a>
+  <li><a href = "../../tree/main/day7">Day 7</a>
+  <li><a href = "../../tree/main/day8">Day 8</a>
+  <li><a href = "../../tree/main/day9">Day 9</a>
+  <li><a href = "../../tree/main/day10">Day 10</a>
+  <li><a href = "../../tree/main/day11">Day 11</a>
+  <li><a href = "../../tree/main/day12">Day 12</a>
+  <li><a href = "../../tree/main/day13">Day 13</a>
+  <li><a href = "../../tree/main/day14">Day 14</a>
+  <li><a href = "../../tree/main/day15">Day 15</a>
+  <li><a href = "../../tree/main/day16">Day 16</a>
+  <li><a href = "../../tree/main/day17">Day 17</a>
+  <li><a href = "../../tree/main/day18">Day 18</a>
+  <li><a href = "../../tree/main/day19">Day 19</a>
+  <li><a href = "../../tree/main/day20">Day 20</a>
