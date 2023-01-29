@@ -4,8 +4,9 @@
 <p>2 different Hackerrank Tutorials Used<br>
 https://www.hackerrank.com/domains/tutorials/10-days-of-javascript (First 10 days)<br>
 https://www.hackerrank.com/domains/tutorials/30-days-of-code (Day 10-30)</p>
+[hello](https://pages.github.com/)
 <ul>
-  <li>[[Day 0](www.hackerrank.com/challenges/js10-hello-world)]</li>
+  <li>[Day 0](www.hackerrank.com/challenges/js10-hello-world)</li>
   <li>[Day 0](https://www.hackerrank.com/challenges/js10-data-types)</li>
   <li>[Day 1](https://www.hackerrank.com/challenges/js10-arithmetic-operators)</li>
   <li>[Day 1](https://www.hackerrank.com/challenges/js10-function)</li>
